@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="D:\xampp\htdocs\dhaval\php_mvc\php_mvc.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/D:/xampp/htdocs/dhaval/php_mvc]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/D:/xampp/htdocs/dhaval/php_mvc]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="D:\xampp\htdocs\dhaval\php_mvc\core\Application.php"/>
+  <file name="D:\xampp\htdocs\dhaval\php_mvc\core\Request.php"/>
+  <file name="D:\xampp\htdocs\dhaval\php_mvc\core\Router.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.11"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1614613719766" name="D:\xampp\htdocs\dhaval\php_mvc\views\layouts\main.php"/>
+  <file crc="1614613771262" name="D:\xampp\htdocs\dhaval\php_mvc\views\home.php"/>
+  <file crc="1614613788596" name="D:\xampp\htdocs\dhaval\php_mvc\views\contact.php"/>
+  <file crc="1614457363854" name="D:\xampp\htdocs\dhaval\php_mvc\vendor\composer\installed.json"/>
+  <file crc="1614457364068" name="D:\xampp\htdocs\dhaval\php_mvc\vendor\composer\ClassLoader.php"/>
+  <file crc="1614522312573" name="D:\xampp\htdocs\dhaval\php_mvc\vendor\composer\autoload_static.php"/>
+  <file crc="1614457364039" name="D:\xampp\htdocs\dhaval\php_mvc\vendor\composer\autoload_real.php"/>
+  <file crc="1614522312538" name="D:\xampp\htdocs\dhaval\php_mvc\vendor\composer\autoload_psr4.php"/>
+  <file crc="1614457363854" name="D:\xampp\htdocs\dhaval\php_mvc\vendor\composer\autoload_namespaces.php"/>
+  <file crc="1614457363949" name="D:\xampp\htdocs\dhaval\php_mvc\vendor\composer\autoload_classmap.php"/>
+  <file crc="1614457364013" name="D:\xampp\htdocs\dhaval\php_mvc\vendor\autoload.php"/>
+  <file crc="1614614117929" name="D:\xampp\htdocs\dhaval\php_mvc\public\index.php"/>
+  <file crc="1614616426552" name="D:\xampp\htdocs\dhaval\php_mvc\core\Router.php"/>
+  <file crc="1614616364231" name="D:\xampp\htdocs\dhaval\php_mvc\core\Response.php"/>
+  <file crc="1614526815746" name="D:\xampp\htdocs\dhaval\php_mvc\core\Request.php"/>
+  <file crc="1614616435095" name="D:\xampp\htdocs\dhaval\php_mvc\core\Application.php"/>
+  <file crc="1614610077200" name="D:\xampp\htdocs\dhaval\php_mvc\.vscode\launch.json"/>
+  <file crc="1614522233576" name="D:\xampp\htdocs\dhaval\php_mvc\composer.json"/>
+ </filescache>
+</project>

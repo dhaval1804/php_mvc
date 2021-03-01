@@ -1,0 +1,16 @@
+{
+    "name": "prajapati/php_mvc",
+    "authors": [
+        {
+            "name": "Dhaval Prajapati",
+            "email": "dhavalprajapati410@gmail.com"
+        }
+    ],
+    "description": "This is the new composer testinng by me!",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
